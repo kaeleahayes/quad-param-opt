@@ -2,23 +2,27 @@ clc, clear, close all
 
 %% PART ONE - FIT TO FIGURE 8 DATA
 
+% load figure8 data
 
+
+% fmincon call
 
 
 
 %% PART TWO - FIT TO BOX DATA
 
+% load boxdrill data
 
 
-
+% fmincon call
 
 
 %% PART THREE - FIT TO SINE WAVE
 
+% load sinewave data
 
 
-
-
+% fmincon call
 
 
 %% example
